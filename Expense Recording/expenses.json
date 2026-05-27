@@ -1,0 +1,14 @@
+[
+    {
+        "amount": 250.0,
+        "description": "car petrol",
+        "category": "Transportation",
+        "date": "2036-04-15"
+    },
+    {
+        "amount": 20.0,
+        "description": "kurkure",
+        "category": "Groceries",
+        "date": "2028-04-15"
+    }
+]
